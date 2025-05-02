@@ -18,7 +18,7 @@ This project explores IPL T20 match dataset using SQL queries to uncover interes
 
 ## Output Screenshots
 
-Results are available in the `outputs/` folder.
+Results are available in the `Query output` folder.
 
 ## Tools
 
